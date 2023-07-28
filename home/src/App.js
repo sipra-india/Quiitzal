@@ -1,11 +1,12 @@
 import Header from "./header";
 import Footer from "./footer";
+import Content from "./contents/content";
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <h1>Hello</h1>
+      <Content />
       <Footer />
     </div>
   );

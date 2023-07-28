@@ -1,9 +1,10 @@
 import react from "react";
+import "./header.css";
 
 const Header = () => {
   return (
     <header>
-      <h1>Quiitzal</h1>
+      <h4>Quiitzal</h4>
       <nav>
         <ul>
           <li>
