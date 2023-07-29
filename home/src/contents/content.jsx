@@ -1,6 +1,6 @@
 import React from "react";
 import Intro from "./Intro_slide";
-import Features from "./features";
+import Features from "./features.jsx";
 
 function Content() {
   return (

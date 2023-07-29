@@ -6,6 +6,7 @@ function Feature_box(props) {
   return <div className="container">
     <h2 id="Heading">This is {props.title}!</h2>
     <p id="Description">{props.properties}</p>
+    <button id="btn">Go to {props.title}</button>
   </div>;
 }
 
